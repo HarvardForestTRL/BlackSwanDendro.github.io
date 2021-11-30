@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Welcome!" # Site name or title, also used in jekyll-seo-tag
-#logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Tree Rings, Rstats, Ecology, and Paleoclimate" # Site description and default description, also used in jekyll-seo-tag
 url: "lgsmith295.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
