@@ -1,7 +1,7 @@
 ---
 title: Teaching
 feature_text: 
-feature_image: "https://imgur.com/IEu1Stf"
+feature_image: "https://i.imgur.com/0UrLAW4.jpg"
 excerpt: 
 aside: true
 ---
