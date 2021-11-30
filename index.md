@@ -23,7 +23,6 @@ Frostburg State University
 
 
 &nbsp; 
-&nbsp; 
 
 **Skills**
 -	R statistical programming language including tidy data, data visualization, package development, and R markdown.

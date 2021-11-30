@@ -1,7 +1,6 @@
 ---
 title: Research
-feature_text: |
-  
+feature_text:
 feature_image: "https://i.imgur.com/1nTtYG8.jpg"
 excerpt: 
 aside: true
