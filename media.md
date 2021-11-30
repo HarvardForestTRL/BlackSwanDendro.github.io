@@ -1,8 +1,7 @@
 ---
 title: Media and Outreach
-feature_text: |
-  
-feature_image: "assets/rings.jpg"
+feature_text:
+feature_image: "https://i.imgur.com/0UrLAW4.jpg"
 excerpt: 
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Resources
 feature_text:
-feature_image: "tree.jpg"
+feature_image: "https://i.imgur.com/0UrLAW4.jpg"
 excerpt: 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Research
 feature_text:
-feature_image: "https://i.imgur.com/IEu1Stf.jpg"
-excerpt: "something here just to test"
+feature_image: "https://i.imgur.com/HAUc7Cs.png"
+excerpt: 
 aside: true
 ---
 
