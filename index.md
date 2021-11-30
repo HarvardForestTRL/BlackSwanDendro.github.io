@@ -1,6 +1,6 @@
 ---
 title: Laura Smith
-feature_text: |
+feature_text:
 feature_image: "assets/tree.jpg"
 excerpt: "PhD Candidate at University of Tennessee"
 aside: true
