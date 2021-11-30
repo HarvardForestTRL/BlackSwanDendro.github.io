@@ -143,7 +143,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/chlorophileB
   LinkedIn: https://www.linkedin.com/in/laura-smith-59494b148/
   GitHub: https://github.com/lgsmith295
-  Email: lsmit224@vols.utk.edu
+  Email: mailto: lsmit224@vols.utk.edu
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
