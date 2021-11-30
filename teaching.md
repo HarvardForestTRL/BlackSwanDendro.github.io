@@ -7,15 +7,15 @@ excerpt:
 aside: true
 ---
 
-### Teaching Philosophy
+##### Teaching Philosophy
 
 
-### Courses I've taught as Instructor of Record
+##### Courses I've taught as Instructor of Record
 - Forest Ecology
 - Plant Taxonomy
 - Dendrology
 
-### Courses I've TAed
+##### Courses I've TAed
 - Quantitative Methods in Geography (Undergraduate and Graduate sections)
 - Biogeography
 - Weather, Climate, and Climate Change
@@ -24,4 +24,4 @@ aside: true
 - Botany
 - Human Biology and the Environment
 
-### Fieldweek Instructor
+##### Fieldweek Instructor
