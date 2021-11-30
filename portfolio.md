@@ -1,7 +1,7 @@
 ---
 title: Dataviz and Other Projects
 feature_text:
-feature_image: "https://i.imgur.com/4KPC5Oh.png"
+feature_image: "https://i.imgur.com/7f1hB2J.jpg"
 excerpt: 
 ---
 
