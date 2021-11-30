@@ -1,8 +1,7 @@
 ---
 title: Teaching
-feature_text: |
-  
-feature_image: "assets/rings.jpg"
+feature_text: 
+feature_image: "https://imgur.com/IEu1Stf"
 excerpt: 
 aside: true
 ---
