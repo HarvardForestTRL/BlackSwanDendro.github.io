@@ -12,9 +12,6 @@ aside: true
 ##### R package for reproducible PCR climate reconstruction estimates
 
 
-##### Bayesian Reconstsruction Modelling Methods
-
-
 ##### Dendrochronological Dating Projects
 
 
