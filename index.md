@@ -8,7 +8,7 @@ aside: true
 
 I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates, and I am a strong proponent of open science and reproducible research.
 
-{% include figure.html image="assets/intro_photo.jpeg" caption="Lady's Bluff, TN with my cattledog, Juniper" position="left" width="300" height="800" %}
+{% include figure.html image="assets/intro_photo.jpeg" caption="Lady's Bluff with my cattledog, Juniper" position="left" width="300" height="800" %}
 
 **Education**
 

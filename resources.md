@@ -3,7 +3,6 @@ title: Resources
 feature_text:
 feature_image: "tree.jpg"
 excerpt: 
-
 ---
 
 Scaffolding for this website can be found [here]("https://alembic.darn.es/"), courtesy of David Darnes
