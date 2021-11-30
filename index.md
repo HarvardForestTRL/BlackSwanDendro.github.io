@@ -6,7 +6,7 @@ excerpt: "PhD Candidate at University of Tennessee"
 aside: true
 ---
 
-I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates. I am an advocate for transparent and reproducible science, as well as clear and effective science communication. 
+I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates.
 
 **Education**
 
