@@ -8,7 +8,7 @@ aside: true
 
 I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates.
 
-<img src=”assets/intro_photo.jpeg”>
+{% include figure.html image="assets/intro_photo.jpeg" caption="Image with caption" width="300" height="800" %}
 
 **Education**
 
