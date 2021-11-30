@@ -1,7 +1,6 @@
 ---
 title: Resources
-feature_text: |
-  
+feature_text:
 feature_image: "tree.jpg"
 excerpt: 
 
