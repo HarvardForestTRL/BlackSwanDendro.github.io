@@ -10,11 +10,9 @@ I am a PhD candidate at the University of Tennessee in the Environmental Change 
 
 **Education**
 
-*Ph.D. (Expected 2022) Geography* University of Tennessee, Knoxville, Tennessee
-
-*M.S. (2016) Applied Ecology and Conservation Biology* Frostburg State University, Frostburg, Maryland
-
-*B.S. (2014) Enthobotany* Frostburg State University, Frostburg, Maryland
+*Ph.D. (Expected 2022) Geography* University of Tennessee, Knoxville
+*M.S. (2016) Applied Ecology and Conservation Biology* Frostburg State University
+*B.S. (2014) Enthobotany* Frostburg State University
 
 **Skills**
 
