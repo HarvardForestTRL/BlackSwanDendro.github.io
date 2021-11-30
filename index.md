@@ -18,6 +18,7 @@ I am a PhD candidate at the University of Tennessee in the Environmental Change 
 
 -*B.S. (2014) Enthobotany* Frostburg State University
 
+
 **Skills**
 
 -	R statistical programming language including tidy data, data visualization, package development, and R markdown.

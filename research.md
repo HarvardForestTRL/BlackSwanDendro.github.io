@@ -2,7 +2,7 @@
 title: Research
 feature_text: |
   
-feature_image: "assets/chainsaw.jpeg"
+feature_image: "assets/rings.jpeg"
 excerpt: 
 
 ---
