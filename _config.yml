@@ -65,9 +65,8 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
+    description: # The post list page content
+    feature_text: 
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -94,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Laura Smith" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Tree Rings, Rstats, Ecology, and Paleoclimate" # Site description and default description, also used in jekyll-seo-tag
 url: "lgsmith295.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -110,7 +109,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo.png'
+  16: '/assets/logos/logo@16x.png'
   32: '/assets/logos/logo@32px.png'
   96: '/assets/logos/logo@96px.png'
   120: '/assets/logos/logo@120px.png'
@@ -129,6 +128,8 @@ navigation_header:
   url: /teaching/
 - title: DataViz
   url: /portfolio/
+- title: Media and Outreach
+  url: /media/
 - title: CV
   url: /CV/
 
@@ -140,8 +141,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/chlorophileB
   LinkedIn: https://www.linkedin.com/in/laura-smith-59494b148/
   GitHub: https://github.com/lgsmith295
-  link: https://lgsmith295.github.io
-  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
