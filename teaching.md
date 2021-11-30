@@ -4,7 +4,7 @@ feature_text: |
   
 feature_image: "assets/rings.jpg"
 excerpt: 
-
+aside: true
 ---
 
 ### Teaching Philosophy
