@@ -1,5 +1,5 @@
 ---
-title: Laura Smith
+title: Welcome!
 feature_text:
 feature_image: "assets/tree.jpg"
 excerpt: "PhD Candidate at University of Tennessee"
