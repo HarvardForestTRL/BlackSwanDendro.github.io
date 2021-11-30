@@ -8,15 +8,17 @@ aside: true
 
 I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates.
 
+![]
+
 **Education**
 
-*Ph.D. (Expected 2022) Geography* University of Tennessee, Knoxville
-*M.S. (2016) Applied Ecology and Conservation Biology* Frostburg State University
-*B.S. (2014) Enthobotany* Frostburg State University
+-*Ph.D. (Expected 2022) Geography* University of Tennessee, Knoxville
+-*M.S. (2016) Applied Ecology and Conservation Biology* Frostburg State University
+-*B.S. (2014) Enthobotany* Frostburg State University
 
 **Skills**
 
--	R statistical programming language including tidy data, data visualization, package development, reproducible research, and R markdown.
+-	R statistical programming language including tidy data, data visualization, package development, and R markdown.
 -	Statistical methods including regression, hierarchical modeling, dimension reduction, spatial data analysis, Bayesian methods
 - Version control using Git and Github
 -	ArcGIS
