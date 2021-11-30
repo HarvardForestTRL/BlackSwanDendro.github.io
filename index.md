@@ -16,7 +16,7 @@ I am a PhD candidate at the University of Tennessee in the Environmental Change 
 University of Tennessee, Knoxville
 
 *M.S. (2016) Applied Ecology and Conservation Biology*\
-rostburg State University
+Frostburg State University
 
 *B.S. (2014) Enthobotany*\
 Frostburg State University
