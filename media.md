@@ -14,7 +14,6 @@ excerpt:
 
 [*TVA Scientists Research Tree Rings*](https://www.timesfreepress.com/news/local/story/2019/may/15/tva-scientist-research-tree-rings/494742/) Mark Pace, Times Free Press. May 2019
 
-[AP](https://www.usnews.com/news/best-states/tennessee/articles/2019-05-25/student-finishing-old-tva-research-on-tree-rings-and-weather)
 
 [*TVA Uses Tree Rings to Predict Drought*](https://www.wutc.org/post/tva-uses-tree-rings-predict-drought) Radio News Segment, Will Davis, WUTC
 
