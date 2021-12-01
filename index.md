@@ -26,7 +26,7 @@ Frostburg State University
 
 **Skills**
 -	R statistical programming language including tidy data, data visualization, package development, and R markdown.
--	Statistical methods including regression, hierarchical modeling, dimension reduction, spatial data analysis, Bayesian methods
+-	Statistical methods including regression, dimension reduction, spatial data analysis, Bayesian methods
 - Version control using Git and Github
 -	ArcGIS
 -	Microsoft Office Suite
