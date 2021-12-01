@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Welcome! ~Under Construction 12/1/21~ Feel free to poke around and view my CV, lots more content on its way!
 feature_text:
 feature_image: "assets/tree.jpg"
 excerpt: "PhD Candidate at University of Tennessee"
