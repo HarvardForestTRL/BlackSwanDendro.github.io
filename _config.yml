@@ -127,7 +127,9 @@ navigation_header:
 - title: Teaching
   url: /teaching/
 - title: DataViz
-  url: /portfolio/
+  url: /portfolio
+- title: pcreconViz
+  url: /portfolio/pcreconViz
 - title: Media and Outreach
   url: /media/
 - title: Resources
