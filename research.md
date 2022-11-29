@@ -9,9 +9,8 @@ aside: true
 ##### Hydroclimate in the Tennessee River Basin
 
 
-##### R package for reproducible PCR climate reconstruction estimates
+[*R package for reproducible PCR climate reconstruction estimates*](https://github.com/lgsmith295/pcrecon)
 
-https://github.com/lgsmith295/pcrecon
 
 
 ##### Dendrochronological Dating Projects
