@@ -11,11 +11,9 @@ aside: true
 
 ##### R package for reproducible PCR climate reconstruction estimates
 
+https://github.com/lgsmith295/pcrecon
+
 
 ##### Dendrochronological Dating Projects
 
 
-##### Select Professional Presentations
-
-
-##### Fieldwork

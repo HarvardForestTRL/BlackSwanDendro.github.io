@@ -6,13 +6,13 @@ excerpt: "PhD Candidate at University of Tennessee"
 aside: true
 ---
 
-I am a PhD candidate at the University of Tennessee in the Environmental Change Laboratory where I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates, and I am a strong proponent of open science and reproducible research.
+I am a Research Assistant at Harvard Forest and a PhD candidate at the University of Tennessee in the Environmental Change Laboratory. I use tree-ring proxies to estimate annually-resolved past environmental conditions. I am particularly interested in the methods of applied statistics which allow us to make these estimates, and I am a strong proponent of open science and reproducible research.
 
 {% include figure.html image="assets/intro_photo.jpeg" caption="Lady's Bluff with my cattledog, Juniper" position="left" width="300" height="800" %}
 
 **Education**
 
-*Ph.D. (Expected 2022) Geography*\
+*Ph.D. (Expected 2023) Geography*\
 University of Tennessee, Knoxville
 
 *M.S. (2016) Applied Ecology and Conservation Biology*\
@@ -24,10 +24,9 @@ Frostburg State University
 
 &nbsp; 
 
-vec <- c(1,2,3)
 **Skills**
 -	R statistical programming language including tidy data, data visualization, package development, and R markdown.
--	Statistical methods including regression, dimension reduction, spatial data analysis, Bayesian methods
+-	Statistical methods including regression, dimension reduction, timeseries, spatial data analysis, Bayesian methods
 - Version control using Git and Github
 -	ArcGIS
 -	Microsoft Office Suite
