@@ -6,9 +6,6 @@ excerpt:
 aside: true
 ---
 
-##### Teaching Philosophy
-
-
 ##### Courses I've taught as Instructor of Record
 - Forest Ecology
 - Plant Taxonomy
@@ -22,5 +19,3 @@ aside: true
 - Human Geography
 - Botany
 - Human Biology and the Environment
-
-##### Fieldweek Instructor
