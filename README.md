@@ -1,2 +1,2 @@
-# [Harvard Forest Tree Ring Lab website)
+# Harvard Forest Tree Ring Lab website
 
