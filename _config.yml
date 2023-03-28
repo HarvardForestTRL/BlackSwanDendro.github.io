@@ -81,13 +81,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Laura Smith" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Tree Rings, Rstats, Ecology, and Paleoclimate" # Site description and default description, also used in jekyll-seo-tag
-url: "lgsmith295.github.io" # Site url, also used in jekyll-seo-tag
+title: "Tree Ring Lab at Harvard Forest" # Site name or title, also used in jekyll-seo-tag
+logo: "" # Site logo, also used in jekyll-seo-tag
+description: "Dendroecology, Old Growth Forests, and Changing Climate" # Site description and default description, also used in jekyll-seo-tag
+url: "HarvardForestTRL.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/lgsmith295/lgsmith295.github.io"
-email: "lsmit224@vols.utk.edu"
+repo: "https://github.com/HarvardForestTRL/HarvardForestTRL.github.io"
+email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
