@@ -37,17 +37,6 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: chlorophileB # jekyll-seo-tag > Owners twitter username
-author: Laura Smith # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: Laura Smith # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/chlorophileB
-    - https://www.facebook.com/profile.php?id=595606115
-    - https://www.linkedin.com/in/laura-smith-59494b148/
-    - https://github.com/lgsmith295
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -122,28 +111,24 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: People
+  url: /people/
 - title: Research
   url: /research/
-- title: Teaching
-  url: /teaching/
-- title: Other Projects
-  url: /portfolio/
 - title: Media and Outreach
   url: /media/
 - title: Resources
   url: /resources/
-- title: CV
-  url: /assets/cv.pdf
 
 navigation_footer:
 - title: 
   url: 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/chlorophileB
-  LinkedIn: https://www.linkedin.com/in/laura-smith-59494b148/
-  GitHub: https://github.com/lgsmith295
-  Email: lsmit224@vols.utk.edu
+  #Twitter:
+  #LinkedIn:
+  #GitHub: 
+  #Email: 
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
