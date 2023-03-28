@@ -1,2 +1,2 @@
-# [Personal Webpage and Online CV](https://lgsmith295.github.io)
+# [Harvard Forest Tree Ring Lab website)
 
